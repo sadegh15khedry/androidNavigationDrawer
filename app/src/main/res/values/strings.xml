@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">فروشگاه آنلاین صادق</string>
+    <string name="account_nav_title">حساب کاربری</string>
+    <string name="home_nav_title">صفحه اصلی</string>
+    <string name="categories_nav_title">دسته بندی ها</string>
+    <string name="cart_nav_title">سبد خرید</string>
+    <string name="settings_nav">تنظیمات</string>
+    <string name="about_nav">درباره ی ما</string>
+    <string name="exit_nav">خروج</string>
+    <string name="home_text_random_filler">صفحه اصلی</string>
+    <string name="open_actionbar">open</string>
+    <string name="close_actionbar">close</string>
+    <string name="action_toggle_bar">action_toggle_bar</string>
+    <string name="search_title">search</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="my_button">my Button</string>
+    <string name="home_fragment">home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment home fragment </string>
+    <string name="categories_fragment">categories fragment</string>
+    <string name="profile_fragment">profile fragment</string>
+    <string name="cart_fragment">cart fragment</string>
+</resources>
